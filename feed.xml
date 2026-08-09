@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads target="Avito.ru" formatVersion="3">
+    <Ad>
+        <Id>tatu-model-dasha-free-01</Id>
+        <Category>Предложение услуг</Category>
+        <ServiceType>Красота</ServiceType>
+        <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+        <Specialty>Татуировки</Specialty>
+        <ClientGender>Женщины</ClientGender>
+        <Place>В салоне</Place>
+        <Title>Тату бесплатно. Внимательный тату мастер</Title>
+        <Description><![CDATA[Меня зовут Даша. Я тату мастер и ищу моделей для пополнения портфолио.
+
+У меня есть опыт в татуировке, я ответственная и аккуратная. Очень люблю свою работу и внимательно отношусь к каждой идее. Перед сеансом мы спокойно обсудим рисунок, размер и место нанесения, чтобы результат вам понравился.
+
+ТАТУ БЕСПЛАТНО — вы не оплачиваете мою работу. Оплата только за одноразовые расходные материалы. Их точную стоимость заранее сообщу в чате Авито, до согласования записи.
+
+Работаю стерильно, использую одноразовые материалы, помогу определиться с эскизом и расскажу, как ухаживать за татуировкой после сеанса. Если делаете тату впервые — всё объясню и не буду торопить.
+
+
+
+
+Ключевые запросы: тату мастер, татуировка, бесплатная тату, модель на тату, женский тату мастер, эскиз тату, тату Новосибирск, тату салон, мини тату, графика тату, цветочная тату, первая татуировка, индивидуальный эскиз, тату в салоне, мастер тату]]></Description>
+        <Address>Новосибирская обл., Новосибирск, Красный пр-т, 82</Address>
+        <Price>1000</Price>
+        <Images>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-01-01-cover-master.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-02-02-botanical-process.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-03-03-infinity-feather.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-04-04-minimal-heart.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-05-05-infinity-process.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-06-06-botanical-hand.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-07-07-floral-variant-a1.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-08-08-cyber-skull-variant-a1.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <Id>tatu-model-darya-free-02</Id>
+        <Category>Предложение услуг</Category>
+        <ServiceType>Красота</ServiceType>
+        <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+        <Specialty>Татуировки</Specialty>
+        <ClientGender>Женщины</ClientGender>
+        <Place>В салоне</Place>
+        <Title>Тату бесплатно. Добрый тату мастер</Title>
+        <Description><![CDATA[Ищу моделей на тату для пополнения своего портфолио.
+
+Меня зовут Дарья. Я тату мастер с опытом. Ответственно подхожу к работе, люблю создавать красивые татуировки и стараюсь, чтобы человеку было спокойно и комфортно на сеансе. Можно прийти со своей идеей или вместе подобрать подходящий эскиз.
+
+Тату бесплатно! За работу мастера платить не нужно — оплачиваются только расходные материалы. До записи я напишу их точную стоимость, поэтому все условия будут понятны заранее.
+
+Соблюдаю стерильность, работаю одноразовыми иглами и расходниками. Помогу выбрать размер и расположение рисунка, учту ваши пожелания и объясню правила ухода за свежей татуировкой.
+
+
+
+
+Ключевые запросы: тату мастер Новосибирск, бесплатная татуировка, тату модель, мастер тату девушка, тату по эскизу, авторская тату, тату цветы, тату орнамент, тату графика, тату на руке, тату на спине, сделать тату, тату студия, консультация тату, тату для девушки]]></Description>
+        <Address>Новосибирская обл., Новосибирск, Красный пр-т, 82</Address>
+        <Price>1000</Price>
+        <Images>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-01-01-cover-floral.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-02-02-backpiece.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-03-03-cyber-skull.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-04-04-dragons.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-05-05-script-flowers.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-06-06-botanical-process-variant-a2.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-07-07-minimal-heart-variant-a2.jpg"/>
+            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-08-08-botanical-hand-variant-a2.jpg"/>
+        </Images>
+    </Ad>
+</Ads>
