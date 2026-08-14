@@ -1,71 +1,583 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Ads target="Avito.ru" formatVersion="3">
-    <Ad>
-        <Id>tatu-model-dasha-free-01</Id>
-        <Category>Предложение услуг</Category>
-        <ServiceType>Красота</ServiceType>
-        <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
-        <Specialty>Татуировки</Specialty>
-        <ClientGender>Женщины</ClientGender>
-        <Place>В салоне</Place>
-        <Title>Тату бесплатно. Внимательный тату мастер</Title>
-        <Description><![CDATA[Меня зовут Даша. Я тату мастер и ищу моделей для пополнения портфолио.
+  <Ad>
+    <Id>avitolog-0002</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <Speciality>Тату</Speciality>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Teacher>Мужчина</Teacher>
+    <Place>
+      <Option>У себя</Option>
+    </Place>
+    <Classes>
+      <Option>Индивидуальные</Option>
+      <Option>Групповые</Option>
+    </Classes>
+    <WorkDays>
+      <Option>Понедельник</Option>
+      <Option>Вторник</Option>
+      <Option>Среда</Option>
+      <Option>Четверг</Option>
+      <Option>Пятница</Option>
+      <Option>Суббота</Option>
+      <Option>Воскресенье</Option>
+    </WorkDays>
+    <WorkTimeFrom>10:00</WorkTimeFrom>
+    <WorkTimeTo>21:00</WorkTimeTo>
+    <Title>Курсы тату в Москве. Профессия и доход</Title>
+    <Description>Хорошая новость для тех, кто ищет новую профессию: тату — это рынок, который не падает. Люди делали и будут делать татуировки, а мастеров, которые работают чисто и красиво, всегда не хватает. Это одна из немногих специальностей, где доход зависит не от оклада, а только от ваших рук и желания: сколько работаете — столько и зарабатываете.
 
-У меня есть опыт в татуировке, я ответственная и аккуратная. Очень люблю свою работу и внимательно отношусь к каждой идее. Перед сеансом мы спокойно обсудим рисунок, размер и место нанесения, чтобы результат вам понравился.
+И освоить её реально с нуля. Не нужно быть художником и «уметь рисовать» — это самый частый миф, который останавливает людей. Мы учим технической стороне: как сделать так, чтобы линия была ровной, а татуировка заживала красиво и держалась годами. Этому учат не талантом, а системой и практикой.
 
-ТАТУ БЕСПЛАТНО — вы не оплачиваете мою работу. Оплата только за одноразовые расходные материалы. Их точную стоимость заранее сообщу в чате Авито, до согласования записи.
+Программа построена так, чтобы вы вышли с реальным навыком, а не с сертификатом «для галочки»:
+• теория кожи и что происходит под иглой;
+• гигиена, стерилизация, организация рабочего места по санитарным нормам;
+• подбор и настройка оборудования, расходники;
+• постановка руки, техника ведения линии, работа с плотностью и тенью;
+• перенос эскиза, работа по трафарету и фрихенд;
+• этапы сеанса — от встречи клиента до финального фото;
+• заживление, разбор частых ошибок новичков и как их не совершать;
+• основы продвижения: как собрать портфолио и получить первых заказчиков.
 
-Работаю стерильно, использую одноразовые материалы, помогу определиться с эскизом и расскажу, как ухаживать за татуировкой после сеанса. Если делаете тату впервые — всё объясню и не буду торопить.
+Учиться можно в группе или один на один с наставником — выбираете сами, что комфортнее по темпу и бюджету. Занятия проходят офлайн, в студии, с живой практикой под присмотром мастера: вы не смотрите видео, а реально работаете.
 
+Мы доводим до результата: помогаем собрать первое портфолио и сделать уверенные первые шаги в профессии, чтобы обучение начало окупаться как можно быстрее.
 
-
-
-Ключевые запросы: тату мастер, татуировка, бесплатная тату, модель на тату, женский тату мастер, эскиз тату, тату Новосибирск, тату салон, мини тату, графика тату, цветочная тату, первая татуировка, индивидуальный эскиз, тату в салоне, мастер тату]]></Description>
-        <Address>Новосибирская обл., Новосибирск, Красный пр-т, 82</Address>
-        <Price>1000</Price>
-        <Images>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-01-01-cover-master.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-02-02-botanical-process.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-03-03-infinity-feather.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-04-04-minimal-heart.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-05-05-infinity-process.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-06-06-botanical-hand.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-07-07-floral-variant-a1.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/dasha-08-08-cyber-skull-variant-a1.jpg"/>
-        </Images>
-    </Ad>
-    <Ad>
-        <Id>tatu-model-darya-free-02</Id>
-        <Category>Предложение услуг</Category>
-        <ServiceType>Красота</ServiceType>
-        <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
-        <Specialty>Татуировки</Specialty>
-        <ClientGender>Женщины</ClientGender>
-        <Place>В салоне</Place>
-        <Title>Тату бесплатно. Добрый тату мастер</Title>
-        <Description><![CDATA[Ищу моделей на тату для пополнения своего портфолио.
-
-Меня зовут Дарья. Я тату мастер с опытом. Ответственно подхожу к работе, люблю создавать красивые татуировки и стараюсь, чтобы человеку было спокойно и комфортно на сеансе. Можно прийти со своей идеей или вместе подобрать подходящий эскиз.
-
-Тату бесплатно! За работу мастера платить не нужно — оплачиваются только расходные материалы. До записи я напишу их точную стоимость, поэтому все условия будут понятны заранее.
-
-Соблюдаю стерильность, работаю одноразовыми иглами и расходниками. Помогу выбрать размер и расположение рисунка, учту ваши пожелания и объясню правила ухода за свежей татуировкой.
+курс линии
 
 
 
 
-Ключевые запросы: тату мастер Новосибирск, бесплатная татуировка, тату модель, мастер тату девушка, тату по эскизу, авторская тату, тату цветы, тату орнамент, тату графика, тату на руке, тату на спине, сделать тату, тату студия, консультация тату, тату для девушки]]></Description>
-        <Address>Новосибирская обл., Новосибирск, пл. Карла Маркса, 7</Address>
-        <Price>1000</Price>
-        <Images>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-01-01-cover-floral.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-02-02-backpiece.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-03-03-cyber-skull.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-04-04-dragons.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-05-05-script-flowers.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-06-06-botanical-process-variant-a2.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-07-07-minimal-heart-variant-a2.jpg"/>
-            <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/darya-08-08-botanical-hand-variant-a2.jpg"/>
-        </Images>
-    </Ad>
+Ключевые запросы: курсы тату, обучение тату, курсы тату с нуля, обучение тату москва, тату мастер обучение, обучение на тату мастера, школа тату, научиться бить тату, курсы тату для начинающих, обучение тату с сертификатом</Description>
+    <Address>Москва, Ленинградский проспект, 37</Address>
+    <Price>50000</Price>
+    <StartingPrice>Да</StartingPrice>
+    <Images>
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0002-v2_test-2.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0002-v2_test-3.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0002-v2_test-4.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0002-v2_test-5.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0002-v2_test-6.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0002-v2_test-7.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0002-v2_test-8.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0002-v2_test-1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>avitolog-0005</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <Speciality>Тату</Speciality>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Teacher>Мужчина</Teacher>
+    <Place>
+      <Option>У себя</Option>
+    </Place>
+    <Classes>
+      <Option>Индивидуальные</Option>
+      <Option>Групповые</Option>
+    </Classes>
+    <WorkDays>
+      <Option>Понедельник</Option>
+      <Option>Вторник</Option>
+      <Option>Среда</Option>
+      <Option>Четверг</Option>
+      <Option>Пятница</Option>
+      <Option>Суббота</Option>
+      <Option>Воскресенье</Option>
+    </WorkDays>
+    <WorkTimeFrom>10:00</WorkTimeFrom>
+    <WorkTimeTo>21:00</WorkTimeTo>
+    <Title>Обучение тату. Из хобби в доход. Тату мастер</Title>
+    <Description>Ты уже рисуешь для себя, засматриваешься на чужие тату и ловишь мысль: «а ведь на этом реально зарабатывают». Этот курс — про то, как превратить любовь к рисунку в дело, за которое платят.
+
+Тату — одна из немногих сфер, где твой вкус и насмотренность превращаются в доход. И начать можно, не бросая всё разом: осваиваешь ремесло в своём темпе, а насколько глубоко уходить в профессию — решаешь сам.
+
+И да, «академически рисовать» уметь не обязательно. В тату решает не сложность эскиза, а чистота исполнения: ровная линия, аккуратный контур, предсказуемое заживление. Этому мы и учим — руками, а не лекциями.
+
+Курс для тех, кто:
+— давно рисует как хобби и хочет наконец монетизировать это;
+— устал от работы «на дядю» и ищет дело по душе;
+— хочет свободный график и доход, который зависит только от него.
+
+Занятия очно, индивидуально или в мини-группе. Настоящая практика: искусственная кожа, затем модели под контролем мастера. После — сертификат и помощь собрать первое портфолио.
+
+Напиши в чат — расскажем программу, сроки и с чего начать твой путь в тату.
+
+
+Ключевые запросы: обучение тату, тату из хобби в доход, тату мастер, заработок на тату, обучение тату с нуля, хобби тату обучение, курс тату Москва</Description>
+    <Address>Москва, Новослободская улица, 20</Address>
+    <Price>50000</Price>
+    <StartingPrice>Да</StartingPrice>
+    <Images>
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0005-r1_01.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0005-r1_02.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0005-r1_03.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0005-r1_04.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0005-r1_05.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0005-r1_06.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0005-r1_07.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/avitolog-0005-r1_08.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>avitolog-uly-tatu</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <Title>Тату Ульяновск. Тату мастер. Татуировка, эскиз, перекрытие тату. Тату салон</Title>
+    <Description>ДАРИМ 2 000 ₽ на татуировку. Напишите в чат сейчас, чтобы забронировать время.
+
+Делаем татуировки любой сложности: от небольшой надписи до рукава и спины. Реализм, чёрно-белая графика, чикано, скандинавские мотивы, тонкие минималистичные линии.
+
+Как всё проходит:
+
+— Обсуждаем идею и рисуем эскиз под вашу анатомию. Эскиз бесплатный.
+— Называем точную цену до начала сеанса. По ходу работы она не растёт.
+— Только одноразовые иглы и расходники, инструмент стерилизуем при вас.
+— Сопровождаем заживление: расскажем про уход, при необходимости поправим деталь бесплатно.
+
+Первый раз? Это нормально, что волнительно. Покажем стерильную упаковку, объясним каждый шаг, сделаем перерыв, когда попросите.
+
+Напишите в чат: пришлите идею или картинку-референс. Ответим быстро, подберём удобное время и зафиксируем подарок 2 000 ₽.
+
+Ключевые запросы: тату, татуировка, тату мастер, тату салон, тату студия, тату Ульяновск, эскиз тату, перекрытие тату, тату рукав, тату надпись, женская тату, мужская тату, маленькая тату, цветная тату, чёрно-белая тату</Description>
+    <Address>Ульяновск, улица Гончарова, 34</Address>
+    <Price>10000</Price>
+    <Images>
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-01.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-02.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-03.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-04.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-05.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-06.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-07.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-08.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-09.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-10.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>avitolog-zhivoe</Id>
+    <AvitoId>8217691265</AvitoId>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <Speciality>Тату</Speciality>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <Teacher>Мужчина</Teacher>
+    <Place>
+      <Option>У себя</Option>
+    </Place>
+    <Classes>
+      <Option>Индивидуальные</Option>
+      <Option>Групповые</Option>
+    </Classes>
+    <WorkDays>
+      <Option>Понедельник</Option>
+      <Option>Вторник</Option>
+      <Option>Среда</Option>
+      <Option>Четверг</Option>
+      <Option>Пятница</Option>
+      <Option>Суббота</Option>
+      <Option>Воскресенье</Option>
+    </WorkDays>
+    <WorkTimeFrom>10:00</WorkTimeFrom>
+    <WorkTimeTo>21:00</WorkTimeTo>
+    <Title>Живое обучение тату в студии. Тату мастер Москва</Title>
+    <Description>Ролики на Ютубе и онлайн-курсы — это теория в вакууме. Тату так не осваивают: нужна живая студия, живой мастер рядом и реальная практика на месте.
+
+У нас обучение проходит в действующей тату-студии Top Tattoo — не в учебном классе, а там, где реально работают мастера и приходят клиенты. Ты попадаешь в живую среду профессии с первого дня, а не разбираешься в одиночку по видео.
+
+Что тебе это даёт:
+— учишься там, где идёт настоящая работа студии, а не в стерильной «учебке»;
+— видишь вживую, как работают практикующие мастера, и перенимаешь их подход;
+— задаёшь вопрос и сразу получаешь ответ, а не пишешь в комментарии под роликом;
+— чувствуешь атмосферу студии и заранее понимаешь, твоё это дело или нет.
+
+Мастер рядом объяснит и поправит: где рука зажата, где линия ушла, где не хватает натяжения. Это живая обратная связь, а не «посмотри урок и как-нибудь сам».
+
+Формат: очно в студии, индивидуально или мини-группа. Живая практика — сначала искусственная кожа, потом работа под контролем мастера. После обучения — сертификат и помощь с первыми шагами в профессии.
+
+Напиши в чат — расскажем программу, покажем студию и позовём познакомиться вживую.
+
+
+Ключевые запросы: живое обучение тату, обучение тату в студии, тату мастер, курс тату очно, обучение тату Москва, тату студия обучение, тату мастер обучение</Description>
+    <Address>Москва, Варшавское шоссе, 70к1</Address>
+    <Price>50000</Price>
+    <StartingPrice>Да</StartingPrice>
+    <Images>
+      <Image url="https://avitolog-production.up.railway.app/photos/zhivoe-cover3.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/zhivoe-cover2.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/zhivoe-2.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/zhivoe-3.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/zhivoe-4.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/zhivoe-5.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/zhivoe-7.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/zhivoe-8.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>avitolog-ryazan-tatu</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <Title>Тату Рязань. Тату мастер. Татуировка, эскиз, перекрытие тату. Тату салон</Title>
+    <Description>ДАРИМ 2 000 ₽ на татуировку. Напишите в чат сейчас, чтобы забронировать время.
+
+Делаем татуировки любой сложности: от небольшой надписи до рукава и спины. Реализм, чёрно-белая графика, чикано, скандинавские мотивы, тонкие минималистичные линии.
+
+Как всё проходит:
+
+— Обсуждаем идею и рисуем эскиз под вашу анатомию. Эскиз бесплатный.
+— Называем точную цену до начала сеанса. По ходу работы она не растёт.
+— Только одноразовые иглы и расходники, инструмент стерилизуем при вас.
+— Сопровождаем заживление: расскажем про уход, при необходимости поправим деталь бесплатно.
+
+Первый раз? Это нормально, что волнительно. Покажем стерильную упаковку, объясним каждый шаг, сделаем перерыв, когда попросите.
+
+Напишите в чат: пришлите идею или картинку-референс. Ответим быстро, подберём удобное время и зафиксируем подарок 2 000 ₽.
+
+Ключевые запросы: тату, татуировка, тату мастер, тату салон, тату студия, тату Рязань, эскиз тату, перекрытие тату, тату рукав, тату надпись, женская тату, мужская тату, маленькая тату, цветная тату, чёрно-белая тату</Description>
+    <Address>Рязань, улица Ленина, 35</Address>
+    <Price>8000</Price>
+    <Images>
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-01.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-02.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-03.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-04.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-05.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-06.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-07.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-08.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-09.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-10.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>avitolog-tula-tatu</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <Title>Тату Тула. Тату мастер. Татуировка, эскиз, перекрытие тату. Тату салон</Title>
+    <Description>ДАРИМ 2 000 ₽ на татуировку. Напишите в чат сейчас, чтобы забронировать время.
+
+Делаем татуировки любой сложности: от небольшой надписи до рукава и спины. Реализм, чёрно-белая графика, чикано, скандинавские мотивы, тонкие минималистичные линии.
+
+Как всё проходит:
+
+— Обсуждаем идею и рисуем эскиз под вашу анатомию. Эскиз бесплатный.
+— Называем точную цену до начала сеанса. По ходу работы она не растёт.
+— Только одноразовые иглы и расходники, инструмент стерилизуем при вас.
+— Сопровождаем заживление: расскажем про уход, при необходимости поправим деталь бесплатно.
+
+Первый раз? Это нормально, что волнительно. Покажем стерильную упаковку, объясним каждый шаг, сделаем перерыв, когда попросите.
+
+Напишите в чат: пришлите идею или картинку-референс. Ответим быстро, подберём удобное время и зафиксируем подарок 2 000 ₽.
+
+Ключевые запросы: тату, татуировка, тату мастер, тату салон, тату студия, тату Тула, эскиз тату, перекрытие тату, тату рукав, тату надпись, женская тату, мужская тату, маленькая тату, цветная тату, чёрно-белая тату</Description>
+    <Address>Тула, проспект Ленина, 44</Address>
+    <Price>10000</Price>
+    <Images>
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-01.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-02.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-03.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-04.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-05.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-06.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-07.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-08.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-09.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/penza-10.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>avitolog-ryazan-seans</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <Title>Тату: Уютный сеанс с комфортом и вдохновением</Title>
+    <Description>Тату: Уютный сеанс с комфортом и вдохновением
+
+Привет! Меня зовут Лёня — профессиональный тату-мастер с художественным образованием и огромной любовью к своему делу!
+
+Я создаю татуировки, которые не просто выглядят красиво, а рассказывают вашу личную историю. Помогу воплотить вашу идею или разработать эксклюзивный эскиз специально для вас.
+
+Сеанс со мной — это всегда комфорт, позитив и хорошее настроение. Будем смотреть интересные шоу, слушать музыку или просто приятно общаться. Для меня важно, чтобы вы не только получили классное тату, но и зарядились эмоциями.
+
+Как я работаю?
+
+Уютная студия в центре Рязани с комфортной атмосферой
+Только стерильные, одноразовые материалы и современное оборудование
+Обсуждаем ваши идеи и опыт в татуировках, чтобы создать идеальный дизайн
+Во время сеанса угощу вас вкусняшками
+В подарок — заживляющая пленка для быстрого и правильного ухода
+Бесплатная консультация, в том числе по созданию индивидуального эскиза
+
+Пишите — буду рад встретиться и сделать ваше тату уникальным!
+
+Также меня находят по запросам: тату, татуировка, обучение татуировке, курсы мастера, мини тату, профессиональный тату мастер, перекрытие старых татуировок, тату в Рязани, чикано, реализм, студия тату, салон тату</Description>
+    <Address>Рязань, улица Есенина, 29</Address>
+    <Price>10000</Price>
+    <Images>
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-seans-01.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-seans-02.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-seans-03.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-seans-04.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-seans-05.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-seans-06.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-seans-07.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-seans-08.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>avitolog-ryazan-perekrytie</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <Title>Перекрытие тату. Исправление старой татуировки</Title>
+    <Description>🔥 Задумал крупную татуировку, но боишься получить не тот результат?
+
+Это разумно. Масштабная работа — уже не «просто набить», а решение, которое должно радовать и сегодня, и через десять лет.
+
+Меня зовут Иван.
+
+Специализируюсь на больших татуировках и рукавах, веду проект целиком — от первой идеи до заживления.
+
+Выбирать в одиночку не придётся.
+
+Концепцию собираем вместе, эскиз дорабатываем до момента, когда ты говоришь: «вот оно, именно так я и хотел».
+
+Приём веду в студии: стерильно, расходники одноразовые, всё по правилам
+
+Тату-студия расположена в Рязани, добраться просто:
+
+📍 улица Почтовая, д. 60 — исторический центр, пешая доступность от остановок.
+
+Найти легко, парковка рядом — если нужно, пришлю подробный маршрут.
+
+💡 Что получишь:
+
+— авторский эскиз под твою анатомию, а не картинку из поиска
+
+— плотный визуал, глубина и аккуратные тени
+
+— работу, которая читается целиком, а не разваливается на фрагменты
+
+— сопровождение на каждом этапе, без «дальше сам»
+
+💰 По деньгам:
+
+Стоимость фиксируем на старте — в процессе она не растёт
+
+Оплату можно разделить на несколько частей
+
+Действуют выгодные условия — напиши, посчитаю под твою задумку
+
+📩 Пришли в сообщения идею или референс —
+
+обсудим, как сделать сильную работу, а не «ещё одну тату»
+
+👉 Сохрани объявление в избранное, чтобы не потерять
+
+🔍 Ключевые слова: перекрытие тату, кавер тату, перекрыть старую татуировку, исправление тату, коррекция тату, перекрытие шрамов, тату Рязань, тату мастер Рязань, тату студия Рязань, тату салон, набить тату, первая татуировка, тату рукав, тату спина, большая тату, тату реализм, чикано, блэкворк, дотворк, лайнворк, графика, олдскул, нэотрад, випшейдинг, тату эскиз, авторский эскиз, индивидуальный эскиз, разработка эскиза, тату по фото, тату надпись, тату дракон, тату лев, тату тигр, тату волк, тату викинг, тату портрет, тату животные, тату воин, чёрно-белая тату, цветная тату, мужская татуировка, женская татуировка, парные тату, тату на руке, тату на ноге, тату на плече, тату на предплечье, тату на спине, мини тату, маленькие тату, тонкие линии, минимализм, микрореализм, эстетика тату, качественная татуировка, стерильные материалы, профессиональный тату мастер, тату художник, запись на тату, сеанс тату, консультация тату</Description>
+    <Address>Рязань, улица Почтовая, 60</Address>
+    <Price>8000</Price>
+    <Images>
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-perekr-01.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-perekr-02.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-perekr-03.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-perekr-04.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-perekr-05.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-perekr-06.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-perekr-07.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-perekr-08.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-perekr-09.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>avitolog-ryazan-uyut</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <Title>Тату: Уютный сеанс с заботой и вдохновением</Title>
+    <Description>Тату: Уютный сеанс с заботой и вдохновением
+
+Здравствуйте! Меня зовут Лёня — тату-мастер с художественным образованием и большой любовью к профессии.
+
+Делаю татуировки, которые не просто красивы, а несут вашу собственную историю. Воплощу вашу задумку или нарисую индивидуальный эскиз именно под вас.
+
+Сеанс у меня — это спокойная обстановка, лёгкое настроение и никакой спешки. Включим сериал, поставим музыку или просто поговорим. Мне важно, чтобы вы ушли не только с крутой татуировкой, но и с хорошими эмоциями.
+
+Как проходит работа:
+
+Тёплая студия в центре Рязани с приятной атмосферой
+Стерильные одноразовые материалы и современное оборудование
+Разбираем вашу идею и прошлый опыт, чтобы дизайн получился идеальным
+Во время сеанса будет чай и что-нибудь вкусное
+В подарок заживляющая плёнка для правильного ухода
+Консультация бесплатно, включая разработку личного эскиза
+
+Напишите — с радостью встречусь и сделаю вашу татуировку особенной!
+
+Также меня находят по запросам: тату, татуировка, тату Рязань, тату мастер, тату студия, тату салон, мини тату, маленькая тату, первая татуировка, индивидуальный эскиз, авторский эскиз, перекрытие старой тату, кавер, реализм, чикано, графика, минимализм, надписи, тату для девушек, тату для парней, запись на сеанс</Description>
+    <Address>Рязань, Соборная улица, 15</Address>
+    <Price>10000</Price>
+    <Images>
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-uyut-01.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-uyut-02.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-uyut-03.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-uyut-04.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-uyut-05.jpg" />
+      <Image url="https://avitolog-production.up.railway.app/photos/ryazan-uyut-06.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>evgeniy-omsk-tatu-01</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <Title>Тату Омск. Тату мастер. Татуировка, эскиз, перекрытие тату. Тату салон</Title>
+    <Description>Хотите сделать тату в Омске и заранее понимать, как пройдёт работа и сколько она будет стоить?
+
+Меня зовут Евгений. Помогу разобрать вашу идею, подобрать размер и расположение татуировки, а референс адаптировать под форму тела. Можно прийти с готовой картинкой или только с общим замыслом — перед записью спокойно обсудим детали.
+
+Как строится работа:
+
+— вы присылаете в чат Авито идею или пример;
+— мы уточняем место нанесения, размер и желаемый результат;
+— согласовываем эскиз и стоимость до начала сеанса;
+— во время работы можно сделать паузу, если она понадобится;
+— после сеанса вы получите понятные рекомендации по уходу.
+
+Для работы используются одноразовые иглы и расходные материалы. Если это первая татуировка, расскажу, что будет происходить на каждом этапе, без спешки и лишнего давления.
+
+Цена объявления — ориентир для проекта среднего размера. Итог зависит от детализации, места нанесения и объёма работы, но согласовывается заранее и не меняется в процессе без вашего решения.
+
+Напишите в чат Авито и пришлите референс либо коротко опишите задумку. Я задам несколько вопросов, оценю проект и предложу подходящий формат сеанса.
+
+
+
+Ключевые запросы: тату Омск, тату мастер Омск, татуировка, эскиз тату, тату салон Омск, тату студия, перекрытие тату, мужское тату, женское тату, тату на руке, тату на плече, тату на предплечье, чёрно-белое тату, тату рукав, небольшое тату, индивидуальный эскиз, консультация тату, сделать тату</Description>
+    <Address>Омск, улица Ленина, 14</Address>
+    <Price>10000</Price>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-evgeniy-01-01.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-evgeniy-01-02.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-evgeniy-01-03.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-evgeniy-01-04.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-evgeniy-01-05.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-evgeniy-01-06.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-evgeniy-01-07.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-evgeniy-01-08.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-evgeniy-01-09.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-evgeniy-01-10.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>evgeniy-omsk-comfort-02</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Мужчины</Option>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <Title>Тату мастер Омск. Первый сеанс. Индивидуальный эскиз</Title>
+    <Description>Первая татуировка не должна начинаться со спешки. Если идея давно сохранена в телефоне, но мешают сомнения насчёт эскиза, ощущений или результата, начнём с нормального разговора.
+
+Я Женя, тату-мастер в Омске. До сеанса разберём, что именно вы хотите передать рисунком, где он будет смотреться лучше и какой масштаб подойдёт выбранному месту. Чужую работу не нужно копировать один в один: понравившийся пример можно переработать под вас.
+
+После сообщения в чате всё происходит последовательно:
+
+1. Вы описываете задумку и показываете примеры, которые нравятся.
+2. Я уточняю размер, расположение и важные детали будущей татуировки.
+3. Мы обсуждаем вариант эскиза и заранее определяем стоимость.
+4. Только после этого выбираем время сеанса.
+
+Во время работы не нужно терпеть молча: при необходимости сделаем перерыв. Используются одноразовые расходники, а после завершения я объясню уход простыми словами — что делать дома и на что обратить внимание во время заживления.
+
+Базовый ориентир этой карточки — 8 000 ₽. Для более крупной или детальной идеи расчёт будет другим; точную сумму назову до записи.
+
+Напишите в чат Авито слово «Идея» и приложите изображение или набросок. В ответ получите вопросы по проекту и предварительную оценку без обязательства сразу записываться.
+
+
+
+Ключевые запросы: первая татуировка, тату мастер, тату Омск, индивидуальный эскиз, маленькое тату, тату для девушки, тату для мужчины, тату на предплечье, тату на ноге, тату портрет, тату лев, тату волк, графика тату, тату в салоне, консультация мастера, уход за тату, авторское тату</Description>
+    <Address>Омск, проспект Карла Маркса, 18/1</Address>
+    <Price>8000</Price>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-zhenya-02-01.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-zhenya-02-02.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-zhenya-02-03.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-zhenya-02-04.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-zhenya-02-05.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-zhenya-02-06.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-zhenya-02-07.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/omsk-zhenya-02-08.jpg" />
+    </Images>
+  </Ad>
 </Ads>
