@@ -59,4 +59,52 @@
       <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-anyone-04-06-result-neck.png" />
     </Images>
   </Ad>
+  <Ad>
+    <Id>anait-face-course-individual-05</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <Speciality>Массаж лица</Speciality>
+    <Place>
+      <Option>У себя</Option>
+    </Place>
+    <Title>Массаж лица обучение. Индивидуальный подход</Title>
+    <Description><![CDATA[Хотите освоить профессию мастера массажа лица или добавить новую услугу в свою бьюти-практику? Приглашаем на очный курс в Москве с практической отработкой.
+
+Программа строится с учётом вашего уровня. Новичок начинает с базовых движений, а практикующий бьюти-мастер сможет сосредоточиться на постановке рук и разборе ошибок.
+
+Курс подойдёт:
+
+• новичкам без опыта;
+• бьюти-мастерам и косметологам;
+• массажистам, которые хотят расширить набор услуг;
+• тем, кто ищет новое профессиональное направление.
+
+Как проходит обучение:
+
+1. Теория и разбор массажных линий.
+2. Демонстрация приёмов преподавателем.
+3. Постановка рук и контроль давления.
+4. Практика под контролем и коррекция ошибок.
+5. Готовый протокол для дальнейшей работы.
+
+Вы освоите пальчиковые, лифтинговые и моделирующие приёмы, техники для овала лица, щёк, шеи и височной зоны.
+
+После курса вы получите официальное свидетельство о прохождении обучения.
+
+Формат: очно в Москве.
+Стоимость: 15 000 ₽.
+
+Напишите слово «КУРС» в чат Авито — отправим полную программу и ближайшие даты.]]></Description>
+    <Address>Москва, Троицкая улица, 8</Address>
+    <Price>15000</Price>
+    <StartingPrice>Нет</StartingPrice>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-individual-04-01-cover.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-individual-04-02-audience.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-individual-04-03-program.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-individual-04-04-practice.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-individual-04-05-cta.png" />
+    </Images>
+  </Ad>
 </Ads>
