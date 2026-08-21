@@ -1,3 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>anait-face-course-anyone-04</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Обучение, курсы</ServiceType>
+    <ServiceSubtype>Другое</ServiceSubtype>
+    <Speciality>Массаж лица</Speciality>
+    <Place>
+      <Option>У себя</Option>
+    </Place>
+    <Title>Массаж лица. Курс подходит любому</Title>
+    <Description><![CDATA[Хотите освоить массаж лица с нуля или добавить новую услугу в свою бьюти-практику? Приглашаем на очное обучение массажу лица в Москве с практической отработкой техник.
+
+Курс подойдёт:
+
+• новичкам без опыта;
+• бьюти-мастерам и косметологам;
+• специалистам, которые хотят расширить навыки;
+• тем, кто рассматривает профессию мастера массажа лица.
+
+На обучении вы освоите:
+
+• основные массажные линии и ориентиры лица и шеи;
+• правильную постановку рук;
+• контроль давления и рабочего ритма;
+• пальчиковые, лифтинговые и моделирующие приёмы;
+• техники для овала, щёк и височной зоны;
+• последовательность проведения процедуры;
+• разбор распространённых ошибок;
+• готовый протокол для дальнейшей практики.
+
+Главный акцент курса — практика. Преподаватель показывает движения, контролирует постановку рук и помогает исправить ошибки во время отработки.
+
+После обучения у вас останутся:
+
+✓ практические навыки;
+✓ понятный алгоритм проведения процедуры;
+✓ уверенность в выполнении техник;
+✓ официальное свидетельство о прохождении курса.
+
+Формат: очное обучение в Москве.
+Стоимость курса: 15 000 ₽.
+
+Доступные направления: пальчиковый массаж лица, лифтинг-массаж, скульптурный и лимфодренажный массаж, техники для височной зоны.
+
+Хотите получить полную программу и ближайшие даты? Напишите слово «КУРС» в чат Авито.
+
+Путь к новой профессии начинается здесь!]]></Description>
+    <Address>Москва, Троицкая улица, 6</Address>
+    <Price>15000</Price>
+    <StartingPrice>Нет</StartingPrice>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-anyone-04-01-cover-square.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-anyone-04-02-massage-lines.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-anyone-04-03-result-face.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-anyone-04-04-result-eye.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-anyone-04-05-result-face-front.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/anait-anyone-04-06-result-neck.png" />
+    </Images>
+  </Ad>
 </Ads>
