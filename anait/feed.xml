@@ -2,6 +2,7 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>anait-face-course-anyone-04</Id>
+    <DateEnd>2026-08-24T00:00:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
     <ServiceSubtype>Другое</ServiceSubtype>
@@ -61,6 +62,7 @@
   </Ad>
   <Ad>
     <Id>anait-face-course-individual-05</Id>
+    <DateEnd>2026-08-24T00:00:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
     <ServiceSubtype>Другое</ServiceSubtype>
