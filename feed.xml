@@ -1191,176 +1191,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>avitolog-ulyanovsk-women-sofiya-20260830</Id>
-    <Category>Предложение услуг</Category>
-    <ServiceType>Красота</ServiceType>
-    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
-    <Specialty>Татуировки</Specialty>
-    <ClientGender>
-      <Option>Женщины</Option>
-    </ClientGender>
-    <Place>
-      <Option>В салоне</Option>
-    </Place>
-    <Title>Женская татуировка Ульяновск. Нежный эскиз</Title>
-    <Description>Татуировка для себя — это не обязанность выбрать самый большой или модный рисунок. Важно, чтобы вам нравились идея, расположение и то, как работа выглядит вместе с вашим телом.
-
-Меня зовут София, я тату мастер в Ульяновске. Это отдельная запись для девушек и женщин: первая небольшая татуировка, цветы, орнамент, надпись, тонкая графика или более заметная работа на руке, бедре, спине и рёбрах.
-
-Перед сеансом спокойно разберём:
-— вашу идею и подходящий стиль;
-— размер и точное расположение;
-— насколько рисунок будет заметен в одежде;
-— чувствительность выбранной зоны;
-— стоимость и длительность работы.
-
-Эскиз адаптирую под анатомию и ваши пожелания. Во время сеанса можно просить перерыв, менять положение и задавать любые вопросы. Работа проходит конфиденциально, без посторонних людей; фото публикуется только с вашего согласия.
-
-Использую одноразовые иглы и расходники, рабочее место обрабатывается перед каждой записью. После татуировки объясню уход простыми словами и останусь на связи до заживления.
-
-Стартовая цена — 10 000 ₽. Напишите в чат Авито три вещи: идею, место на теле и примерный размер. Если пока сомневаетесь, пришлите несколько картинок — помогу выбрать спокойный и красивый вариант без навязывания.
-
-Ключевые запросы: тату мастер, женская татуировка, тату для девушки, маленькая татуировка, цветочная татуировка, тонкая тату, эскиз тату, тату студия.</Description>
-    <Address>Ульяновск, Ульяновский проспект, 6</Address>
-    <Price>10000</Price>
-    <StartingPrice>Да</StartingPrice>
-    <SpecialistGender>Женщина</SpecialistGender>
-    <PriceList>
-      <Service>
-        <ServiceName>Татуировки</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Чёрно-белая татуировка</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Цветная татуировка</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Реалистичная татуировка</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Татуировка в стиле графики</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Татуировка в стиле минимализма</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Татуировка в стиле скетча</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Татуировка в стиле блэкворк</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Татуировка в стиле акварели</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Татуировка в стиле неотрадишнл</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Татуировка в стиле олдскул</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Татуировка в японском стиле</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Флористическая татуировка</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Мини-татуировка</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Татуировка среднего размера</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Большая татуировка</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Перекрытие старых татуировок</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Коррекция старых татуировок</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Перекрытие шрамов</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Разработка индивидуальных эскизов татуировки</ServiceName>
-        <ServicePrice>10000</ServicePrice>
-        <ServiceStartingPrice>Да</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-    </PriceList>
-    <Images>
-      <Image url="https://avitolog-production.up.railway.app/photos/s04-ulyanovsk-women-sofiya-soft-gallery-v2-01-u06.jpg" />
-      <Image url="https://avitolog-production.up.railway.app/photos/s04-ulyanovsk-women-sofiya-soft-gallery-v2-02-u14.jpg" />
-      <Image url="https://avitolog-production.up.railway.app/photos/s04-ulyanovsk-women-sofiya-soft-gallery-v2-03-u12.jpg" />
-      <Image url="https://avitolog-production.up.railway.app/photos/s04-ulyanovsk-women-sofiya-soft-gallery-v2-04-u05.jpg" />
-      <Image url="https://avitolog-production.up.railway.app/photos/s04-ulyanovsk-women-sofiya-soft-gallery-v2-05-u10.jpg" />
-      <Image url="https://avitolog-production.up.railway.app/photos/s04-ulyanovsk-women-sofiya-soft-gallery-v2-06-u04.jpg" />
-      <Image url="https://avitolog-production.up.railway.app/photos/s04-ulyanovsk-women-sofiya-soft-gallery-v2-07-u07.jpg" />
-      <Image url="https://avitolog-production.up.railway.app/photos/s04-ulyanovsk-women-sofiya-soft-gallery-v2-08-u08.jpg" />
-      <Image url="https://avitolog-production.up.railway.app/photos/s04-ulyanovsk-women-sofiya-soft-gallery-v2-09-u09.jpg" />
-      <Image url="https://avitolog-production.up.railway.app/photos/s04-ulyanovsk-women-sofiya-soft-gallery-v2-10-u03.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>draft-moscow-first-tattoo-20260907</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
@@ -2047,7 +1877,8 @@
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
-    </PriceList><Images>
+    </PriceList>
+    <Images>
       <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-ulyanovsk-sleeve-20260908-v2-01.jpg" />
       <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-ulyanovsk-sleeve-20260908-v2-02.jpg" />
       <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-ulyanovsk-sleeve-20260908-v2-03.jpg" />
@@ -2059,6 +1890,5 @@
       <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-ulyanovsk-sleeve-20260908-v2-09.jpg" />
       <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-ulyanovsk-sleeve-20260908-v2-10.jpg" />
     </Images>
-
   </Ad>
 </Ads>
