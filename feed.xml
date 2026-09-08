@@ -1725,155 +1725,147 @@
     <Place>
       <Option>В салоне</Option>
     </Place>
-    <Title>Тату за отзыв. Тату мастер Ульяновск</Title>
-    <Description>Набираю несколько проектов для портфолио: несложные популярные сюжеты для начала рукава или крупной татуировки на плече и предплечье. За работу мастера в первом сеансе платить не нужно: 7 000 ₽ — это стоимость одноразовых расходных материалов за один сеанс. После заживления попрошу оставить честный отзыв о сеансе и результате.
+    <Title>Тату мастер Ульяновск. Тату рукав и эскиз</Title>
+    <Description>Пришлите фото руки и примеры татуировок, которые вам нравятся. Я бесплатно оценю подходящий размер, расположение, количество сеансов и предварительную стоимость.
 
-Под этот формат подойдут:
-• розы, часы, лев, волк, тигр, крыло, карты или простой орнамент;
-• один хорошо читаемый крупный элемент на плече или предплечье;
-• первый этап будущего рукава по заранее составленному плану.
+Создаю индивидуальные эскизы для рукава и крупных татуировок на плече, предплечье, ноге, груди и спине. Учитываю анатомию тела, чтобы композиция хорошо смотрелась в движении и не теряла форму со временем.
 
-Фотографии в карточке — референсы по направлению и сложности. Чужую работу один в один не копирую: по выбранной теме подготовлю отдельный эскиз под вашу руку.
+Работаю с разными сюжетами: орнаменты, животные, цветы, часы, мифология, графика и чёрно-белые композиции. Чужие работы один в один не копирую — подготовлю отдельный эскиз по вашим пожеланиям.
 
-Важно: 7 000 ₽ — не цена готового рукава целиком. В предложение входит один сеанс и один согласованный этап. Сложный фотореализм на всю руку, многофигурная композиция и перекрытие старой работы рассчитываются отдельно. Если идея не подходит под условия, я скажу об этом до записи.
+Как проходит работа:
+1. Вы отправляете фото места для татуировки и несколько референсов.
+2. Я предлагаю размер, расположение и структуру композиции.
+3. Согласовываем эскиз, стоимость и количество сеансов.
+4. Проводим сеанс в оборудованной студии в Ульяновске.
+5. После процедуры я объясняю уход и остаюсь на связи во время заживления.
 
-Как всё проходит:
-1. Вы присылаете в чат Авито фото руки и 1–3 примера, которые нравятся.
-2. Я оцениваю расположение, размер, плотность и количество сеансов.
-3. До встречи согласуем первый элемент, эскиз и фиксируем 7 000 ₽ за расходные материалы первого сеанса.
-4. После заживления вы оставляете честный отзыв о впечатлении и результате. Положительная оценка не является условием.
+Стоимость начинается от 12 000 ₽ и зависит от размера, сложности и количества деталей. Полный рукав обычно выполняется поэтапно — цену каждого этапа согласуем заранее, без неожиданных доплат.
 
-Меня зовут Роман. Работаю в студии в Ульяновске. На сеансе использую одноразовые иглы, перчатки и защитные материалы. После татуировки объясню уход и останусь на связи в чате Авито.
+Использую одноразовые иглы, перчатки и защитные материалы. Работаю аккуратно, соблюдаю стерильность.
 
-Цена в карточке — 7 000 ₽ за расходные материалы одного сеанса в рамках этого предложения. Если для рукава понадобятся следующие этапы, их количество и стоимость согласуем заранее. Доплат по факту без предварительного согласования не будет.
-
-Напишите в чат «Рукав за отзыв» и приложите фото руки и референсы. В ответ скажу, подходит ли идея, какой размер будет смотреться лучше и с какого элемента логичнее начать.
-
-
-
-Ключевые запросы: тату за отзыв, тату мастер Ульяновск, тату за расходники, тату рукав, мужской рукав, женский рукав, тату на плечо, тату на предплечье, чёрно-белая татуировка, тату розы, тату часы, тату лев, тату волк, тату тигр, тату карты, тату орнамент, эскиз рукава, крупная татуировка, тату в студии, консультация тату мастера</Description>
+Напишите в чат Авито и приложите фото руки. В ответ скажу, как лучше расположить татуировку, сколько потребуется сеансов и во сколько обойдётся работа.</Description>
     <Address>Ульяновск, улица Федерации, 16</Address>
-    <Price>7000</Price>
+    <Price>12000</Price>
     <StartingPrice>Да</StartingPrice>
     <SpecialistGender>Мужчина</SpecialistGender>
     <PriceList>
       <Service>
         <ServiceName>Татуировки</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Чёрно-белая татуировка</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Цветная татуировка</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Реалистичная татуировка</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Татуировка в стиле графики</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Татуировка в стиле минимализма</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Татуировка в стиле скетча</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Татуировка в стиле блэкворк</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Татуировка в стиле акварели</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Татуировка в стиле неотрадишнл</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Татуировка в стиле олдскул</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Татуировка в японском стиле</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Флористическая татуировка</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Мини-татуировка</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Татуировка среднего размера</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Большая татуировка</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Перекрытие старых татуировок</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Коррекция старых татуировок</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Перекрытие шрамов</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Разработка индивидуальных эскизов татуировки</ServiceName>
-        <ServicePrice>7000</ServicePrice>
+        <ServicePrice>12000</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
