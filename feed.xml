@@ -1883,4 +1883,178 @@
       <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-ulyanovsk-sleeve-20260908-v2-10.jpg" />
     </Images>
   </Ad>
+  <Ad>
+    <Id>moscow-comfort-session-lenya-20260908-v1</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Женщины</Option>
+      <Option>Мужчины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <Title>Тату: Уютный сеанс с комфортом и вдохновением</Title>
+    <Description>Пришлите фотографию участка тела и пример татуировки, которая вам нравится. До записи я подскажу подходящий размер, расположение рисунка, примерную длительность сеанса и стоимость.
+
+Меня зовут Лёня. Я тату-мастер с художественным образованием, работаю в Москве и разрабатываю эскизы под человека, а не просто переношу чужую картинку на кожу. Можно прийти с готовой идеей, несколькими референсами или только с описанием того, что хочется получить.
+
+Перед сеансом спокойно разберём:
+— как рисунок будет смотреться на выбранном месте;
+— какие детали стоит оставить или упростить;
+— нужен один сеанс или несколько этапов;
+— сколько будет стоить согласованный вариант.
+
+Во время работы не тороплю и не оставляю человека один на один с переживаниями. Можно делать паузы, включить музыку или сериал, а все вопросы задавать прямо по ходу сеанса. Моя задача — чтобы вам было спокойно и понятно на каждом этапе.
+
+Рабочее место подготавливаю перед каждым клиентом. Иглы и расходные материалы одноразовые. После сеанса наклеиваю защитную плёнку, объясняю уход простыми словами и остаюсь на связи во время заживления.
+
+Стоимость начинается от 10 000 ₽. Точная цена зависит от размера, места нанесения и количества деталей; согласуем её заранее, до начала работы.
+
+Напишите в чат слово «Эскиз» и приложите фото участка тела вместе с референсом. Я отвечу с предварительной оценкой размера, расположения и стоимости.
+
+
+
+Ключевые запросы: тату мастер Москва, татуировка Москва, тату в студии, индивидуальный эскиз тату, авторская татуировка, тату по фото, консультация тату мастера, тату на руке, тату на предплечье, тату на плече, тату на ноге, тату на спине, женская татуировка, мужская татуировка, чёрно-белая татуировка, цветная татуировка, мини тату, большая татуировка, комфортный сеанс тату, уход за татуировкой</Description>
+    <Address>Москва, улица Шверника, 13к1</Address>
+    <Price>10000</Price>
+    <StartingPrice>Да</StartingPrice>
+    <SpecialistGender>Мужчина</SpecialistGender>
+    <PriceList>
+      <Service>
+        <ServiceName>Татуировки</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Чёрно-белая татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Цветная татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Реалистичная татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле графики</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле минимализма</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле скетча</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле блэкворк</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле акварели</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле неотрадишнл</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле олдскул</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в японском стиле</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Флористическая татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Мини-татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка среднего размера</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Большая татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Перекрытие старых татуировок</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Коррекция старых татуировок</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Перекрытие шрамов</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Разработка индивидуальных эскизов татуировки</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/moscow-comfort-lenya-20260908-01.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/moscow-comfort-lenya-20260908-02.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/moscow-comfort-lenya-20260908-03.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/moscow-comfort-lenya-20260908-04.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/moscow-comfort-lenya-20260908-05.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/moscow-comfort-lenya-20260908-06.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/moscow-comfort-lenya-20260908-07.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/moscow-comfort-lenya-20260908-08.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/moscow-comfort-lenya-20260908-09.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/moscow-comfort-lenya-20260908-10.jpg" />
+    </Images>
+  </Ad>
 </Ads>
