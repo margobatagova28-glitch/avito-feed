@@ -1709,4 +1709,177 @@
       </Service>
     </PriceList>
   </Ad>
+  <Ad>
+    <Id>draft-ulyanovsk-large-tattoo-copy-20260908</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Женщины</Option>
+      <Option>Мужчины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <Title>Тату мастер Ульяновск. Рукава и большие тату</Title>
+    <Description>Если вы выбираете первую татуировку, пришлите в чат фото участка тела и картинку с идеей. До записи я дам конкретную оценку: какой размер сохранит детали, где рисунок будет смотреться лучше и от какой суммы считать работу.
+
+Меня зовут Роман. Работаю в Ульяновске и спокойно провожу первый сеанс: без спешки, давления и необходимости разбираться во всех стилях заранее. Можно прийти с готовым референсом, наброском или просто объяснить, какой смысл хочется вложить.
+
+Перед сеансом разберём три вещи:
+— форму и масштаб рисунка под выбранное место;
+— детали, которые важно оставить читаемыми после заживления;
+— итоговую стоимость и длительность работы.
+
+Сначала согласуем направление эскиза. Если выбранная идея не подходит участку тела, объясню это простыми словами и предложу более удачную посадку. Записываться сразу после консультации не обязательно.
+
+На сеансе использую одноразовые иглы и расходные материалы. Можно делать паузы. После работы покажу, как ухаживать за татуировкой дома, и отвечу на вопросы по заживлению в чате Авито.
+
+Цена в карточке указана от 10 000 ₽. Точная сумма зависит от размера, места и количества деталей и фиксируется до начала работы.
+
+Напишите в чат слово «Первая» и приложите фото места для татуировки. В ответ получите предварительную оценку размера, расположения и стоимости.
+
+
+
+Ключевые запросы: тату мастер Ульяновск, первая татуировка, консультация тату мастера, эскиз тату, тату по фото, маленькая татуировка, мини тату, тату на руке, тату на предплечье, тату на плече, тату на ноге, тату на спине, женская татуировка, мужская татуировка, индивидуальный эскиз, авторская татуировка, тату в салоне, безопасный сеанс, уход за татуировкой, запись на тату</Description>
+    <Address>Ульяновск, Московское шоссе, 108</Address>
+    <Price>10000</Price>
+    <StartingPrice>Да</StartingPrice>
+    <SpecialistGender>Мужчина</SpecialistGender>
+    <PriceList>
+      <Service>
+        <ServiceName>Татуировки</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Чёрно-белая татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Цветная татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Реалистичная татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле графики</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле минимализма</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле скетча</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле блэкворк</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле акварели</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле неотрадишнл</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в стиле олдскул</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка в японском стиле</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Флористическая татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Мини-татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Татуировка среднего размера</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Большая татуировка</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Перекрытие старых татуировок</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Коррекция старых татуировок</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Перекрытие шрамов</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Разработка индивидуальных эскизов татуировки</ServiceName>
+        <ServicePrice>10000</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-moscow-first-20260907-01.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-moscow-first-20260907-02.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-moscow-first-20260907-03.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-moscow-first-20260907-04.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-moscow-first-20260907-05.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-moscow-first-20260907-06.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-moscow-first-20260907-07.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-moscow-first-20260907-08.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-moscow-first-20260907-09.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-moscow-first-20260907-10.jpg" />
+    </Images>
+  </Ad>
 </Ads>
