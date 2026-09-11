@@ -1883,49 +1883,4 @@
       <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/review-ulyanovsk-sleeve-20260908-v2-10.jpg" />
     </Images>
   </Ad>
-  <Ad>
-    <Id>moscow-model-free-20260911-v1</Id>
-    <Category>Предложение услуг</Category>
-    <ServiceType>Красота</ServiceType>
-    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
-    <Specialty>Татуировки</Specialty>
-    <ClientGender>
-      <Option>Мужчины</Option>
-      <Option>Женщины</Option>
-    </ClientGender>
-    <Place>
-      <Option>В салоне</Option>
-    </Place>
-    <Title>Модель на тату аниме. Татуировка Москва</Title>
-    <Description>Ищем модель на татуировку на завтра, 12 сентября 2026 года.
-
-Татуировку выполняет ученик под постоянным контролем опытного мастера. Работа мастера бесплатная — оплачиваются только одноразовые расходные материалы. Эскиз, размер и место нанесения предварительно согласуем.
-
-Требования к модели:
-— возраст от 18 лет;
-— чистая кожа без старой татуировки, раздражения и повреждений;
-— готовность провести на сеансе несколько часов;
-— согласие на фото и видео результата для портфолио.
-
-Используем одноразовые иглы, перчатки, колпачки и остальные расходные материалы. Упаковки открываются перед сеансом.
-
-Чтобы записаться, напишите слово «Модель» и пришлите фотографию места для татуировки и ваш возраст.
-
-Ключевые запросы: модель на тату Москва, бесплатная татуировка, ищу модель тату, тату ученик, тату под контролем мастера, эскиз тату, татуировка Москва, модель на татуировку, тату за расходники.</Description>
-    <Address>Москва</Address>
-    <SpecialistGender>Мужчина</SpecialistGender>
-    <DateEnd>2026-09-12T23:59:00+03:00</DateEnd>
-    <Images>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/model-anime-20260911-01-v1.png" />
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/model-sketch-02-anime-heart-v1.png" />
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/model-anime-20260911-03-v1.png" />
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/model-sketch-04-straw-hat-panel-v1.png" />
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/model-anime-20260911-05-v1.png" />
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/model-sketch-06-split-anime-face-v1.png" />
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/model-sketch-07-sword-split-face-v1.png" />
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/model-sketch-08-anime-flash-set-v3-no-numbers.png" />
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/model-anime-20260911-09-v1.png" />
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed/photos/model-anime-20260911-10-v1.png" />
-    </Images>
-  </Ad>
 </Ads>
